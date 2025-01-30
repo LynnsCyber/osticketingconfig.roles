@@ -11,6 +11,7 @@ This tutorial demonstrates the configuration of roles in Osticket. These agents 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
