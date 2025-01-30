@@ -3,7 +3,7 @@
 
 </p>
 
-<h1>osTicket Configure Roles in osTicket: Admin Panel</h1>
+<h1>Configure Roles in osTicket: Admin Panel</h1>
 This tutorial demonstrates the configuration of roles in Osticket. These agents are given certain permissions due to the role they are assigned.<br />
 
 <h2>Environments and Technologies Used</h2>
