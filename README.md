@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/9922287d-17fd-4a61-bc48-c43b4b61bce5" />
+
 </p>
 
 <h1>osTicket Configure Roles in osTicket: Admin Panel</h1>
