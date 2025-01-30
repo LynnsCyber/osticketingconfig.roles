@@ -7,7 +7,7 @@ This tutorial demonstrates the configuration of roles in Osticket. These agents 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
