@@ -25,7 +25,8 @@ This tutorial demonstrates the configuration of roles in Osticket. These agents 
 </p> (pic1
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in to osTicket Admin Panel
+Use an admin account to sign in.
 </p>
 <br />
 
@@ -33,7 +34,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/tobk64t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> (pic2)
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Navigate to Agent Panel
+Click on Admin Panel (top-right).
+Go to Agents > Roles.
 </p>
 <br />
 
@@ -41,7 +44,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/s1Ej63B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> (pic3)
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Create a New Role
+Click Add New Role.
+Enter a name for the role.
 </p>
 <br />
 <p>
